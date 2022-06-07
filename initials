@@ -1,0 +1,27 @@
+ini = """
+ SSS  L
+S  S  L
+S     L
+ SSS  L
+    S L
+S   S L
+ SSS  LLLLL
+"""
+
+print(ini)
+
+
+
+my_ini = """
+
+K   K H    H
+K  K  H    H
+K K   H    H
+KK    HHHHHH
+K K   H    H
+K  K  H    H
+K   K H    H
+
+"""
+
+print(my_ini)
